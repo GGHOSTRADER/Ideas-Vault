@@ -1,4 +1,4 @@
 # Ideas-Vault
-Quantitative Trading and finance software design
+Quantitative Trading and predictive Models
 
 ###### By Ghost
